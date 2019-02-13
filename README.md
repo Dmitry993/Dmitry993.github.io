@@ -1,6 +1,7 @@
 ### Education
 
-Minsk State Higher Radiotechnical College
+Minsk State Higher Radiotechnical College  
+
 Microelectronics
 
 Belarusian State University of Informatics and Radioelectronics
