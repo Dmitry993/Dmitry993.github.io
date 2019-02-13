@@ -3,17 +3,17 @@
 Minsk State Higher Radiotechnical College  
 Microelectronics
 
-Belarusian State University of Informatics and Radioelectronics
-The Faculty of Computer Technologies
+Belarusian State University of Informatics and Radioelectronics  
+The Faculty of Computer Technologies  
 Infocommunication technologies
 
 ### Skills
 
-Programming Languages: C# (intermediate), Java (novice);
-Integrated Development Environments: MS Visual Studio 2015, 2017;
-Operating Systems: MS Windows 8, 10;
-Version Control Systems: Git (GitHub);
-Languages: English A1+ (Elementary);
+* Programming Languages: C# (intermediate), Java (novice);  
+* Integrated Development Environments: MS Visual Studio 2015, 2017;  
+* Operating Systems: MS Windows 8, 10;  
+* Version Control Systems: Git (GitHub);  
+* Languages: English A1+ (Elementary);
 
 ### About me
 
@@ -21,9 +21,9 @@ At the moment I work as an engineer. At my work we have waterflow development pr
 
 ### Interests
 
-My personal interests include:
-Electronics. Interested in a variety of electronic device, also do their repairs in the best of their ability.
-Beekeeping. My grandfather kept the apiary in my family. In childhood, I went with my father to help him and learned a lot of new things. Today, we continue his work.
+My personal interests include:  
+Electronics. Interested in a variety of electronic device, also do their repairs in the best of their ability.  
+Beekeeping. My grandfather kept the apiary in my family. In childhood, I went with my father to help him and learned a lot of new things. Today, we continue his work.  
 Active rest. I like walks in the park, ride a bike, relaxing into the outdoors.
 
 ### Contact
