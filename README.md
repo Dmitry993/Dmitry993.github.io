@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+### Education
 
-You can use the [editor on GitHub](https://github.com/Dmitry993/Dmitry993.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Minsk State Higher Radiotechnical College
+Microelectronics
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Belarusian State University of Informatics and Radioelectronics
+The Faculty of Computer Technologies
+Infocommunication technologies
+
+### Skills
+
+Programming Languages: C# (intermediate), Java (novice);
+Integrated Development Environments: MS Visual Studio 2015, 2017;
+Operating Systems: MS Windows 8, 10;
+Version Control Systems: Git (GitHub);
+Languages: English A1+ (Elementary);
 
 ### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+At the moment I work as an engineer. At my work we have waterflow development processes. My main responsibilities are: assembly, installing software and testing. About a year ago I started to learn programming on my own. My introduction began with Java, but later I switched to C #, this direction seems more promising. Most recently, I finished the C # Developer course at the Educational Center of High-Tech Park. To start in IT, I lack the experience and knowledge that I can get after taking this course.
 
 ### Interests
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dmitry993/Dmitry993.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My personal interests include:
+Electronics. Interested in a variety of electronic device, also do their repairs in the best of their ability.
+Beekeeping. My grandfather kept the apiary in my family. In childhood, I went with my father to help him and learned a lot of new things. Today, we continue his work.
+Active rest. I like walks in the park, ride a bike, relaxing into the outdoors.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
