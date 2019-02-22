@@ -28,18 +28,18 @@ Active rest. I like walks in the park, ride a bike, relaxing into the outdoors.
 
 ### My implemented tasks
 
-https://github.com/Dmitry993/FancyCalc
-https://github.com/Dmitry993/PadawansTask1
-https://github.com/Dmitry993/PadawansTask2
-https://github.com/Dmitry993/PadawansTask3
-https://github.com/Dmitry993/PadawansTask4
-https://github.com/Dmitry993/PadawansTask5
-https://github.com/Dmitry993/PadawansTask6
-https://github.com/Dmitry993/PadawansTask7
-https://github.com/Dmitry993/PadawansTask8
-https://github.com/Dmitry993/PadawansTask9
-https://github.com/Dmitry993/PadawansTask10
-https://github.com/Dmitry993/PadawansTask11
-https://github.com/Dmitry993/PadawansTask12
+https://github.com/Dmitry993/FancyCalc  
+https://github.com/Dmitry993/PadawansTask1  
+https://github.com/Dmitry993/PadawansTask2  
+https://github.com/Dmitry993/PadawansTask3  
+https://github.com/Dmitry993/PadawansTask4  
+https://github.com/Dmitry993/PadawansTask5  
+https://github.com/Dmitry993/PadawansTask6  
+https://github.com/Dmitry993/PadawansTask7  
+https://github.com/Dmitry993/PadawansTask8  
+https://github.com/Dmitry993/PadawansTask9  
+https://github.com/Dmitry993/PadawansTask10  
+https://github.com/Dmitry993/PadawansTask11  
+https://github.com/Dmitry993/PadawansTask12  
 https://github.com/Dmitry993/PadawansTask13
 
