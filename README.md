@@ -43,5 +43,5 @@ Active rest. I like walks in the park, ride a bike, relaxing into the outdoors.
 [PadawansTask12](https://github.com/Dmitry993/PadawansTask12)   
 [PadawansTask13](https://github.com/Dmitry993/PadawansTask13)    
 [PadawansTask15](https://github.com/Dmitry993/PadawansTask15)    
-[CodeWars](https://www.codewars.com/users/Dmitry993)  
+[Codewars](https://www.codewars.com/users/Dmitry993)  
 
