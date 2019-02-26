@@ -41,5 +41,6 @@ https://github.com/Dmitry993/PadawansTask9
 https://github.com/Dmitry993/PadawansTask10  
 https://github.com/Dmitry993/PadawansTask11  
 https://github.com/Dmitry993/PadawansTask12  
-https://github.com/Dmitry993/PadawansTask13
+https://github.com/Dmitry993/PadawansTask13  
+https://www.codewars.com/users/Dmitry993
 
