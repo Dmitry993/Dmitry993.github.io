@@ -28,7 +28,7 @@ Active rest. I like walks in the park, ride a bike, relaxing into the outdoors.
 
 ### My implemented tasks
 
-https://github.com/Dmitry993/FancyCalc.html  
+https://github.com/Dmitry993/FancyCalc
 https://github.com/Dmitry993/PadawansTask1  
 https://github.com/Dmitry993/PadawansTask2  
 https://github.com/Dmitry993/PadawansTask3  
